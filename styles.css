@@ -1,5 +1,5 @@
 body{
-    color: white;
+    color: rgb(0, 0, 0);
     background-color: #334e07;
     margin: 0;
     padding: 0;
@@ -83,7 +83,7 @@ body{
 
 .optionButton:hover{
     content: normal;
-    color: #1bbcd7;
+    color: #ccd7da;
     border: 3px solid #098095;
     box-shadow: 
     0 0 0.1vw 0.4vw #1bbcd7,
